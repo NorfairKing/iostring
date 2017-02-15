@@ -1,4 +1,6 @@
 name: iostring
+synopsis: A class of strings that can be involved in IO.
+description: Strings that can be involved in IO, accesible with Path.
 version: 0.0.0.0
 cabal-version: >=1.10
 build-type: Simple
